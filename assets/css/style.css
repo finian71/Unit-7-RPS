@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+}
+
+.row .col {
+  padding-top: 1rem;
+  /* border: 2px solid black; */
+}
+
+.btn-small {
+  margin: 3px;
+}
+
+h5, h6, p, a {
+  text-align: center;
+}
